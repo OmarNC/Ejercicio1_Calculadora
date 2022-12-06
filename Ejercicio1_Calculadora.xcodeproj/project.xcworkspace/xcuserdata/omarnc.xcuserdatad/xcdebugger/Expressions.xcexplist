@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.tapNumberButton(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(boton.titleLabel?.text)!">
+            </PersistentString>
+            <PersistentString
+               value = "objCalculadora">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Calculadora.getStrInput():Calculadora.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tring(Int(num2))">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Calculadora.apretarOperador(strOperador:):Calculadora.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "strInput">
+            </PersistentString>
+            <PersistentString
+               value = "num1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
